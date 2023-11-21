@@ -28,14 +28,15 @@
     },
     "extra": {
       "eas": {
-        "projectId": "8c8bd404-59ba-4f56-b41e-efb39ac79e6a"
+        "projectId": "5e8903d0-508d-406e-acc6-41488beabf53"
       }
     },
+    "owner": "dikezeko_oliveira",
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/8c8bd404-59ba-4f56-b41e-efb39ac79e6a"
+      "url": "https://u.expo.dev/5e8903d0-508d-406e-acc6-41488beabf53"
     }
   }
 }
